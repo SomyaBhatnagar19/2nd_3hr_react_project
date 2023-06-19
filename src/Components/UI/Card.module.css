@@ -1,0 +1,17 @@
+ 
+  .card {
+    /* position:  absolute; */
+    top: 20%;
+    left: 10rem;
+    width: 80%;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    /* border-radius: 2rem; */
+    padding: 1rem;
+    color:black;
+    font-weight: bold;
+    background-color: rgba(198, 202, 202, 0.8); /* Adjust the background color and opacity as needed */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 1);
+  }
+  
